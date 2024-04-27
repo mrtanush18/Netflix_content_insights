@@ -1,0 +1,11 @@
+Columns, rows > how 2 choose
+
+measure : count distinct
+
+filter > edit filter > exclude null values
+
+marks > area chart, other charts when 2 use??
+
+Format sheet color, remove gridlines. change ticks (axis) color
+
+press ctrl and drag attributes to marks to duplicate
